@@ -4,11 +4,11 @@
 <h3 align="center">A junior full-stack student in search of knowledge.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966"
 
-- 🌱 I’m currently learning **Back End at Trybe**
+🌱 I’m currently learning **Back End at Trybe**
 
-- 👨‍💻 All of my projects are available at [https://github.com/marcos-schlautmann](https://github.com/marcos-schlautmann)
+👨‍💻 All of my projects are available at [https://github.com/marcos-schlautmann](https://github.com/marcos-schlautmann)
 
-- 📫 How to reach me **marcos27.bonfim@gmail.com**
+📫 How to reach me **marcos27.bonfim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
