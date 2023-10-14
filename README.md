@@ -6,7 +6,9 @@
 
 🌱 I’m currently learning **Full Stack Development at Trybe**
 
-👨‍💻 All of my projects are available at (https://github.com/marcos-schlautmann/ms-email)
+👨‍💻 Some of my main projects:
+- https://github.com/marcos-schlautmann/HelloWorldLambada 
+- https://github.com/marcos-schlautmann/ms-email
 
 📫 How to reach me **marcos27.bonfim@gmail.com**
 
