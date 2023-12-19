@@ -8,7 +8,7 @@
 
 👨‍💻 Some of my main projects:
 - https://github.com/marcos-schlautmann/trybe-futebol-clube
-- https://github.com/marcos-schlautmann/ms-email
+- https://github.com/marcos-schlautmann/trybe-games
 
 📫 How to reach me **marcos27.bonfim@gmail.com**
 
